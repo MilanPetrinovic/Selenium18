@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="773c9d31-62fc-4ec0-aa4d-6d6b397766dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AccountCreatedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AccountInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ApiTestingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/BrandsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ContactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/DeletedAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/PaymentDonePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ProductDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/TestCasesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CartTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CreateAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/EndToEndTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/HomePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/ProductsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/PurchaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/ReviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/ScrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SearchTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bgRIOQFU161YXoN5qoNvRpf1f0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.CartTests.executor": "Run",
+    "TestNG.CartTests.verifyThatCartIsEmpty.executor": "Debug",
+    "TestNG.CartTests.verifyThatItemsRemainInCartAfterLogout.executor": "Run",
+    "TestNG.CartTests.verifyThatUserCanAddMultiplePiecesOfSingleProduct.executor": "Run",
+    "TestNG.CartTests.verifyThatUserCanAddMultipleProductsToCart.executor": "Run",
+    "TestNG.CartTests.verifyThatUserCanAddProductsFromProductPage.executor": "Run",
+    "TestNG.CartTests.verifyThatUserCanAddProductsToCart.executor": "Run",
+    "TestNG.CartTests.verifyThatUserCanRemoveItemsFromCart.executor": "Run",
+    "TestNG.CreateAccountTest.verifyThatUserCanCreateNewAccountWithMinimumRequiredInformation.executor": "Run",
+    "TestNG.CreateAccountTest.verifyThatUserCanDeleteAccount.executor": "Run",
+    "TestNG.CreateAccountTest.verifyThatUserCannotCreateAccountWithoutAllRequiredFields.executor": "Run",
+    "TestNG.EndToEndTest.executor": "Run",
+    "TestNG.EndToEndTest.verifyThatUserCanCreateNewAccountAndCompletePurchaseOfProduct.executor": "Run",
+    "TestNG.EndToEndTest.verifyThatUserCanCreateNewAccountWithMinimumRequiredInformation.executor": "Run",
+    "TestNG.HomePageTests.verifyAPITestingLink.executor": "Run",
+    "TestNG.HomePageTests.verifyContactUsLink.executor": "Run",
+    "TestNG.HomePageTests.verifyTestCasesLink.executor": "Run",
+    "TestNG.HomePageTests.verifyVideoTutorialsLink.executor": "Run",
+    "TestNG.Login.userCanCreateNewAccount.executor": "Run",
+    "TestNG.LoginTest.VerifyThatUserCanLogOut.executor": "Run",
+    "TestNG.LoginTest.VerifyThatUserCanLoginWithValidCredentials.executor": "Run",
+    "TestNG.LoginTest.VerifyThatUserCannotLoginWithEmptyEmailAndPassword.executor": "Run",
+    "TestNG.LoginTest.VerifyThatUserCannotLoginWithInvalidEmail.executor": "Run",
+    "TestNG.LoginTest.VerifyThatUserCannotLoginWithInvalidPassword.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTests.userCanCreateNewAccount.executor": "Run",
+    "TestNG.LoginTests.userCanCreateNewAccountWithMinimumRequiredInformation.executor": "Run",
+    "TestNG.LoginTests.verifyThatUserCanCreateNewAccountWithMinimumRequiredInformation.executor": "Run",
+    "TestNG.ProductsTest.executor": "Run",
+    "TestNG.ProductsTest.verifyThatAllProductsAreDiplayed.executor": "Run",
+    "TestNG.ProductsTest.verifyThatAllProductsAreDisplayed.executor": "Run",
+    "TestNG.ProductsTest.verifyThatUserCanSelectProductCategory.executor": "Run",
+    "TestNG.ProductsTest.verifyThatUserCanSelectProductsByBrand.executor": "Run",
+    "TestNG.ProductsTest.verifyThatUserCanViewProductDetails.executor": "Run",
+    "TestNG.PurchaseTests.verifyThatDeliveryAddressIsTheSameAsCreateAccountAddress.executor": "Run",
+    "TestNG.PurchaseTests.verifyThatInvoiceIsDownloaded.executor": "Run",
+    "TestNG.PurchaseTests.verifyThatPurchaseAddressIsTheSameAsCreateAccountAddress.executor": "Run",
+    "TestNG.PurchaseTests.verifyThatUserCanCompletPurchase.executor": "Run",
+    "TestNG.PurchaseTests.verifyThatUserCanCompletePurchase.executor": "Run",
+    "TestNG.ReviewTest.executor": "Run",
+    "TestNG.ReviewTest.verifyThatUserCanAddProductReview.executor": "Run",
+    "TestNG.ScrollTest.verifyThatUserCanScrollToTheToPUsingScrollButton.executor": "Run",
+    "TestNG.SearchTest.verifyThatUserCanSearchProducts.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sofija/IdeaProjects/FormsPOM-master",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.EndToEndTest.verifyThatUserCanCreateNewAccountAndCompletePurchaseOfProduct">
+    <configuration name="CreateAccountTest.verifyThatUserCannotCreateAccountWithoutAllRequiredFields" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExercise18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CreateAccountTest" />
+      <option name="METHOD_NAME" value="verifyThatUserCannotCreateAccountWithoutAllRequiredFields" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndToEndTest.verifyThatUserCanCreateNewAccountAndCompletePurchaseOfProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExercise18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.EndToEndTest" />
+      <option name="METHOD_NAME" value="verifyThatUserCanCreateNewAccountAndCompletePurchaseOfProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.VerifyThatUserCanLogOut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExercise18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.LoginTest" />
+      <option name="METHOD_NAME" value="VerifyThatUserCanLogOut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.VerifyThatUserCanLoginWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExercise18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.LoginTest" />
+      <option name="METHOD_NAME" value="VerifyThatUserCanLoginWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.VerifyThatUserCannotLoginWithInvalidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExercise18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.LoginTest" />
+      <option name="METHOD_NAME" value="VerifyThatUserCannotLoginWithInvalidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EndToEndTest.verifyThatUserCanCreateNewAccountAndCompletePurchaseOfProduct" />
+        <item itemvalue="TestNG.LoginTest.VerifyThatUserCanLogOut" />
+        <item itemvalue="TestNG.LoginTest.VerifyThatUserCannotLoginWithInvalidPassword" />
+        <item itemvalue="TestNG.LoginTest.VerifyThatUserCanLoginWithValidCredentials" />
+        <item itemvalue="TestNG.CreateAccountTest.verifyThatUserCannotCreateAccountWithoutAllRequiredFields" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="773c9d31-62fc-4ec0-aa4d-6d6b397766dd" name="Changes" comment="" />
+      <created>1706634656548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706634656548</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
